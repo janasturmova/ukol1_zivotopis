@@ -3,7 +3,9 @@ body{
     background-color:#e9e6e7;
     font-size: 20px;
     color:#3c3b44;
-    text-align: center;
+    line-height: 1.5;
+    margin: 0;
+
 
 }
 
@@ -12,19 +14,32 @@ h1{
     text-align: center;
     font-weight: bold;
     color: #3c3b44;
+    padding-top: 50px;
+    padding-bottom: 0;
+    margin: 0;
 }
 
 h2{
     font-size: 50px;
     text-align: center;
     color:#3c3b44;
-   
+    font-style: italic;
+    margin-top: 0;
+    padding-top: 0;
+    padding-bottom: 50px;
 }
+
 h3{
     font-size: 45px;
     font-weight: bold;
+    margin-top: 0;
+
 }
 
+h4{
+    margin-top:20px;
+    margin-bottom: 0;
+}
 .hlavicka{
     background-color: #ad87ac;
     background-size: cover;
@@ -39,11 +54,13 @@ h3{
     background-color: #3c3b44;
     color: whitesmoke;
     text-align: center;
+    padding: 20px 0 20px 0;
 }
 
 .menu{
     background-color: #3c3b44;
     color: whitesmoke;
+    margin:0;
     
 }
 
@@ -51,3 +68,31 @@ a{
     font-style: italic;
     color:#ad87ac;
 }
+
+section {
+    padding: 50px 15%;
+      }
+
+table {
+    text-align: left;
+    font-weight: normal;
+    border-spacing: 0px;
+    margin-top: 36px;
+}
+
+.cara{
+    border-bottom: 1px solid #3c3b44; 
+   
+}
+.cara2{
+    padding: 10px 0;
+    border-bottom: 1px solid #3c3b44;
+    padding-left: px;
+    text-align: right;
+}
+.refkon{
+    padding-left: 70px;
+    text-align: right;
+}
+
+    
