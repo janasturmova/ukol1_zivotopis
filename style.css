@@ -9,18 +9,18 @@ body{
 
 h1{
     font-size: 80px;
-    text-align: center;
+   
     font-weight: bold;
     color: #3c3b44;
     padding-top: 60px;
     padding-bottom: 0;
     margin: 0;
-    line-height: 60px;
+    line-height: 1.5;
 }
 
 h2{
     font-size: 50px;
-    text-align: center;
+   
     color:#3c3b44;
     font-style: italic;
     margin: 0;
@@ -32,6 +32,7 @@ h3{
     font-size: 45px;
     font-weight: bold;
     margin-top: 0;
+    
 
 }
 
@@ -42,6 +43,7 @@ h4{
 .hlavicka{
     background-color: #ad87ac;
     background-size: cover;
+    padding: 50px 20%;
 }
 
 .reference,
@@ -73,7 +75,8 @@ a{
 }
 
 section {
-    padding: 50px 15%;
+    padding: 50px 20%;
+    overflow: auto;
  
       }
 
@@ -111,6 +114,49 @@ table {
     color:  #ad87ac;
 }
 
-p{
+p,
+ul{
     margin: 5px;
 }
+
+.foto-prace{
+    width: 200px;
+    float:left;
+    margin: 0 50px 370px 0px;
+    border-radius: 50px 0px 50px 0px
+      }
+.foto-skola{
+    width: 200px;
+    float: left;
+    margin: 0 50px 80px 0px;
+    border-radius: 50px 0px 50px 0px
+}
+
+.foto-kontakty{
+    width: 200px;
+    float: left;
+    margin: 0 50px 50px 0px;
+    border-radius: 50px 0px 50px 0px;   
+}
+
+.foto-certifikaty{
+    width: 200px;
+    float: left;
+    margin: 0 50px 50px 0px;
+    border-radius: 50px 0px 50px 0px;   
+}
+.mojefoto{
+    width: 200px;
+    float: left;
+    margin: 0 50px 50px 0px;
+    border-radius: 50px 0px 50px 0;
+    overflow: auto;
+}
+.palce{
+    width: 200px;
+    float: left;
+    margin: 0 50px 50px 0px;
+    border-radius: 50px 0px 50px 0px; 
+}
+
+  
