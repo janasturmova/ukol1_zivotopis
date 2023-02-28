@@ -32,8 +32,6 @@ h3{
     font-size: 45px;
     font-weight: bold;
     margin-top: 0;
-    
-
 }
 
 h4{
@@ -64,20 +62,19 @@ h4{
     padding:0;
     text-align: center;
 }
+
 .menu li {
     display: inline-block;
 }
 
 a{
     font-style: italic;
-    color:#ad87ac;
-    
+    color:#ad87ac;  
 }
 
 section {
     padding: 50px 20%;
     overflow: auto;
- 
       }
 
 table {
@@ -88,14 +85,15 @@ table {
 }
 
 .cara{
-    border-bottom: 1px solid #3c3b44; 
-   
+    border-bottom: 1px solid #3c3b44;   
 }
+
 .cara2{
     padding: 10px 0;
     border-bottom: 1px solid #3c3b44;
     text-align: right;
 }
+
 .refkon{
     padding-left: 70px;
     text-align: right;
@@ -145,6 +143,7 @@ ul{
     margin: 0 50px 50px 0px;
     border-radius: 50px 0px 50px 0px;   
 }
+
 .mojefoto{
     width: 200px;
     float: left;
@@ -152,6 +151,7 @@ ul{
     border-radius: 50px 0px 50px 0;
     overflow: auto;
 }
+
 .palce{
     width: 200px;
     float: left;
