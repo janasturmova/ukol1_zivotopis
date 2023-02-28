@@ -9,7 +9,6 @@ body{
 
 h1{
     font-size: 80px;
-   
     font-weight: bold;
     color: #3c3b44;
     padding-top: 60px;
@@ -20,7 +19,6 @@ h1{
 
 h2{
     font-size: 50px;
-   
     color:#3c3b44;
     font-style: italic;
     margin: 0;
@@ -41,7 +39,7 @@ h4{
 .hlavicka{
     background-color: #ad87ac;
     background-size: cover;
-    padding: 50px 20%;
+    padding: 50px 19%;
 }
 
 .reference,
@@ -73,15 +71,18 @@ a{
 }
 
 section {
-    padding: 50px 20%;
+    padding: 50px 19%;
     overflow: auto;
       }
 
 table {
     text-align: left;
-    font-weight: normal;
     border-spacing: 0px;
     margin-top: 36px;
+}
+
+th{
+    font-weight: normal;   
 }
 
 .cara{
