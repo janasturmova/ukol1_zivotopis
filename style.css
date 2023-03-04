@@ -104,6 +104,7 @@ th{
     text-decoration: none;
     display: inline-block;
     padding: 20px 30px;
+    text-transform: uppercase;
 }
 
 .menu a:hover,
@@ -159,5 +160,14 @@ ul{
     margin: 0 50px 50px 0px;
     border-radius: 50px 0px 50px 0px; 
 }
+
+
+.sipka {
+    width: 80px;
+    position: fixed;
+    right: 50px;
+    bottom:50px;
+    border-radius: 25px 0px 25px 0;
+    }
 
   
