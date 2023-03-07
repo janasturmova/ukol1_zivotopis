@@ -36,14 +36,14 @@ h4{
     margin-top:30px;
     margin-bottom: 0;
 }
+
 .hlavicka{
     background-color: #ad87ac;
     background-size: cover;
     padding: 50px 19%;
 }
 
-.reference,
-.certifikaty{
+.tmave-pozadi{
     background-color: #dfd9db;
 }
 
@@ -73,7 +73,7 @@ a{
 section {
     padding: 50px 19%;
     overflow: auto;
-      }
+}
 
 table {
     text-align: left;
@@ -124,7 +124,8 @@ ul{
     float:left;
     margin: 0 50px 370px 0px;
     border-radius: 50px 0px 50px 0px
-      }
+}
+
 .foto-skola{
     width: 200px;
     float: left;
@@ -161,7 +162,6 @@ ul{
     border-radius: 50px 0px 50px 0px; 
 }
 
-
 .sipka {
     width: 80px;
     position: fixed;
@@ -169,5 +169,3 @@ ul{
     bottom:50px;
     border-radius: 25px 0px 25px 0;
     }
-
-  
